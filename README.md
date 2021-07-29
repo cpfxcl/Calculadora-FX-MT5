@@ -17,8 +17,9 @@ Inspirada en este https://www.myfxbook.com/es/forex-calculators/position-size
   
   En el selector, al selecciona el PAR, aparecera el Balance actual de la cuenta, El Precio ASK y BID y el Spread actual, estos valores se actualizan cada vez que presione el selector.
   
-  Luego debe ingresar el **$ en dolares que desea arriesgar** y el programa realizara los calculos necesarios para meter una orden ya sea Compra o Venta con riesgo Beneficio 1:3, con el lotaje calculado en base a los datos ingresados.
-  Por ejemplo su cuenta es de 1000 USD, y desea arriesgar 100 USD en una orden de Venta y el precio actual es de 150.700 y su SL es en 150.800(10p), el programara ingresara una orden con 1 lote, donde su SL sera en 150.700 y su TP es 150.400
+  **Luego debe ingresar el $ en dolares que desea arriesgar y el programa realizara los calculos necesarios para meter una orden ya sea Compra o Venta con riesgo Beneficio 1:3, con el lotaje calculado en base a los datos ingresados.**
+  
+  **Por ejemplo su cuenta es de 1000 USD, y desea arriesgar 100 USD en una orden de Venta y el precio actual es de 150.700 y su SL es en 150.800(10p), el programara ingresara una orden con 1 lote, donde su SL sera en 150.700 y su TP es 150.400**
   
   
 
