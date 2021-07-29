@@ -13,7 +13,7 @@ Inspirada en este https://www.myfxbook.com/es/forex-calculators/position-size
 
 ### Instalacion
   Una vez instalado todo, descargar el repositorio, darle doble click al archivo "Calculadora.py", el programa abrira MT5(si no esta abierto) y se conectara al terminal
-  Actualmente solo soporta el par GJ, pero pronto agregare mas 😄
+  Actualmente solo soporta el par **GJ**, pero pronto agregare mas 😄
   
   En el selector, al selecciona el PAR, aparecera el Balance actual de la cuenta, El Precio ASK y BID y el Spread actual, estos valores se actualizan cada vez que presione el selector.
   
