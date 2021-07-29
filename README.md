@@ -7,7 +7,7 @@ Inspirada en este https://www.myfxbook.com/es/forex-calculators/position-size
 ## Requisitos
 
 - WIN10
-- Python 3.8
+- Python 3.8+
 - API Metatrader 5 https://www.mql5.com/es/docs/integration/python_metatrader5
 - MT5 (Con el broker que quieran)
 
