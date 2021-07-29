@@ -1,29 +1,11 @@
 """
-06-11
-    Funciones basicas agregas, el sw es capaz de:
-        - Calcular Lotaje en Base a precio de SL y % de Riesgo de un balance fijo de 50k
-        - Calcular TP en base a 1:3
-        - Mostrar Dinero en Riesgo y Beneficio en base a 1:3
-        - Meter orden de Compra y Venta con los parametros anteriores
+APP que realiza calculos de lotaje con la informacion ingresada por el usuario
 
-    Pendientes:
-        - Agregar Status de Orden en Label
-        - Leer Ordenes activas y meterlas en al GUI
-        - Mover SL a BE 1:2
-        - Marcar en Rojo cuando el SL supero los 10p
-        - No permitir poner un precio de SL superior a 15p
-        - No permitir poner precio que no corresponden para orden de Compra/Venta
-        - Si el SL es menor a 3p, poner como minimo 3 de SL y 9 de TP
-        - Condicionar limite de Perdida por Secion por %.
-        - Mejorar GUI
-        - Meter Trader en distintas cuentas y que ellas manejen su % de Riesgo(CopyTrader)
+Toma el Balance de la cuenta 
+El $ a arriesgar
+La diferencia de Pip entre el precio actual y el precio del SL
 
-
-    Locuras:
-
-        - Seleccionar Par,% y Filtro, y que el SW solo determine SL/TP basado en los filtros
-        - Que el SW tradee solo :P
-
+En base ha eso genera el calculo del lotaje e ingresa una orden 1:3 R:B
 
 """
 
